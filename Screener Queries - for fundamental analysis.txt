@@ -1,0 +1,28 @@
+Market Capitalization > 3000 AND
+Debt to equity <0.5 AND
+Average return on equity 5Years  > 15 AND
+Average return on capital employed 5Years > 15 AND
+EPS growth 5Years > 12 AND
+Pledged percentage  < 10 AND
+Public holding  < 40 AND
+Debt to equity < 1.5 AND
+Sales growth 5Years > 8 AND
+Profit growth 5Years > 8 AND
+Interest Coverage Ratio > 4 AND
+((Net worth > Net block 3Years back  * 3) OR
+(Net block + Capital work in progress) > 2* (Net block preceding year + Capital work in progress preceding year ))
+
+
+Market Capitalization > 3000 AND
+Debt to equity <0.5 AND
+Average return on equity 5Years  > 12 AND
+Average return on capital employed 5Years > 12 AND
+EPS growth 5Years > 10 AND
+Pledged percentage  < 10 AND
+Public holding  < 40 AND
+Debt to equity < 1.5 AND
+Sales growth 5Years > 8 AND
+Profit growth 5Years > 8 AND
+Interest Coverage Ratio > 4 AND
+((Net worth > Net block 3Years back  * 3) OR
+(Net block + Capital work in progress) > 2* (Net block preceding year + Capital work in progress preceding year ))
